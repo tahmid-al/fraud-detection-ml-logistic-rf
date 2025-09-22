@@ -1,8 +1,3 @@
-Absolutely! Here’s your fully polished README.md — ready for copy-paste into your file:
-
-⸻
-
-
 # 💳 Fraud Detection ML: Logistic Regression & Random Forest
 
 This project focuses on detecting fraudulent financial transactions using **machine learning models**—specifically **Logistic Regression** and **Random Forest Classifier**—applied to a real-world dataset. It tackles **class imbalance** using techniques like `class_weight='balanced'` to improve recall on fraud cases.
